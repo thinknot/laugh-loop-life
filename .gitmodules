@@ -1,3 +1,9 @@
 [submodule "themes/terminal"]
 	path = themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/piercer"]
+	path = themes/piercer
+	url = https://github.com/danielkvist/hugo-piercer-theme.git
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
