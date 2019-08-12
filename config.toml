@@ -7,6 +7,14 @@ defaultContentLanguage = "en"
 language = "en-US"
 paginate = 7                    # The numbers of posts per page
 theme = "hermit"               # Your Hugo theme
+enableEmoji = true
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
 
 [params]
   customCSS = ["css/bgcanvas.css", ]
@@ -14,3 +22,19 @@ theme = "hermit"               # Your Hugo theme
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+
+  themeColor = "#494f5c"
+  homeSubtitle = "systems thinker, software, generative art, sustainability"
+  
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/ccranford/"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/thinknot"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/digitalcaleb"
