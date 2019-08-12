@@ -60,7 +60,3 @@ function setup() {
     }
     pop();
   }
-
-
-function draw() {
-}
