@@ -18,7 +18,7 @@ function setup() {
     centerCanvas();
     noFill();
     strokeWeight(3);
-    moduleColor = color(0, 0, 0, moduleAlpha);
+    moduleColor = color(23, 51, 31, moduleAlpha);
   }
   
   function windowResized() {
