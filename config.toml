@@ -9,7 +9,7 @@ paginate = 7                    # The numbers of posts per page
 theme = "hermit"               # Your Hugo theme
 
 [params]
-  customCSS = ["css/p5canvas.css", ]
+  customCSS = ["css/bgcanvas.css", ]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
