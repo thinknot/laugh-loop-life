@@ -1,5 +1,5 @@
 seurl = "/"                   # The base URL of your Hugo site
-title = "caleb cranford"             # The title of your Hugo site
+title = "cchome"             # The title of your Hugo site
 author = "cc"           # The author name
 googleAnalytics = ""            # Your Google Analytics tracking ID
 enableRobotsTXT = true
@@ -24,14 +24,11 @@ enableEmoji = true
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   themeColor = "#494f5c"
-  homeSubtitle = "systems thinker, software, generative art, sustainability"
+  homeSubtitle = "pretty circles"
   
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
 
-  [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/ccranford/"
   [[params.social]]
     name = "github"
     url = "https://github.com/thinknot"
